@@ -1,0 +1,90 @@
+body{
+  
+  text-align:center;
+  background-color:#edff4f;
+}
+h{
+  text-align:center;
+  font-size:40px;
+  font-weight:bold;
+  font-family: 'Limelight', cursive;
+}
+img{
+  width:250px;
+  border-radius:50%;
+}
+#welcome{ 
+  background:linear-gradient( #de1432 0%,#00619e 100%);
+}
+.line{
+  margin:auto;
+  background-color:red;
+  height:6px;
+  width:80px;
+}
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:20px;
+  color:darkcyan;
+  font-weight:bold;
+}
+h1{
+  font-size:30px;
+  font-family: 'Dancing Script', cursive;
+}
+#book{
+  border-radius:10%;
+}
+#art{
+  border-radius:10%;
+}
+#history{
+  border-radius:10%;
+}
+.menu{
+    top:0px;
+    right:5px;
+    z-index: 10;
+    cursor:pointer;
+    position:fixed;
+    margin-top: 0px;
+    width:100%;
+    background:black;
+}
+.links{
+    color:darkcyan;
+    padding-left:33px;
+    padding-right: 25px;
+    font-family:cursive;
+    font-size:23px;
+    display:inline;
+  font-family: 'Dancing Script', cursive;
+}
+
+.links:hover{
+      background-color:crimson;
+    font-size:25px;
+    text-decoration:underline;
+  color:darkblue;
+}
+h2{
+  font-family: 'Odibee Sans', cursive;
+  font-size:25px
+}
+#pic{
+ border-radius:10%;
+}
+#ra{
+  border-radius:10%;
+  height:355px
+}
+#inspiration{
+  background:linear-gradient( #F4C430 0%,#006400 100%);
+}
+#map{
+  width:1000px;
+}
+#myname{
+  font-size:25px;
+  background-color:brown
+}
